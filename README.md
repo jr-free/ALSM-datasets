@@ -1,2 +1,7 @@
-# ASLM-datasets
+# ALSM-datasets
 Datasets associated with the exercises from Kutner et al's Applied Statistical Linear Models.
+
+These files are identical to those located on University of Florida Prof. R. Randle's website located [here](https://users.stat.ufl.edu/~rrandles/sta4210/Rclassnotes/data/textdatasets/index.html).
+To ease the pain associated with individually downloading each file, I used a small python script to extract each file *as is* and make them available here. The only exception is the datasets for Appendix C, which were renamed according to how they were named in the Appendix. Be that as it may, it will be duely noted that there are no headers in any of these files -- this is precisely how the files came. You will need to refer to the text to determine what each column represents.
+
+Note that these datasets can also be found for R under [this repo](https://github.com/bryangoodrich/ALSM/tree/main) by Bryan Goodrich. Additional companion datasets can be found in the `ALSM` R package hosted on CRAN and mirrored [here](https://github.com/cran/ALSM) on GitHub. Note that the principal (read: only) benefit provided by these repo is providing these datasets independent of any particular tool or language. If you're predominantly an R user, you should probably just use the previously listed repos to access the data. If, however, you're a user of Python, SAS, JMP, Minitab, etc., then you can probably extract some use out of these files. 
