@@ -1,5 +1,5 @@
 # ALSM-datasets
-Datasets associated with the exercises from Kutner et al's Applied Statistical Linear Models.
+Datasets associated with the exercises from Kutner et al's Applied Linear Statistical Models.
 
 These files are identical to those located on University of Florida Prof. R. Randle's website located [here](https://users.stat.ufl.edu/~rrandles/sta4210/Rclassnotes/data/textdatasets/index.html).
 To ease the pain associated with individually downloading each file, I used a small python script to extract each file *as is* and make them available here. The only exception is the datasets for Appendix C, which were renamed according to how they were named in the Appendix. Be that as it may, it will be duely noted that there are no headers in any of these files -- this is precisely how the files came. You will need to refer to the text to determine what each column represents.
